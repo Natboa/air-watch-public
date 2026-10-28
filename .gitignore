@@ -1,0 +1,10 @@
+data/
+.air-cache/
+node_modules/
+*.tmp
+.env
+.env.*
+!.env.example
+!.env.test
+.private/
+.playwright-mcp/
